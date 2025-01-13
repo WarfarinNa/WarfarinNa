@@ -20,7 +20,8 @@
 ---
 
 ### 📊 绿不起来
-<p align="center">
-    ![Warfarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarfarinNa&count_private=true)
-</p>
+![WarfarinNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarfarinNa&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarfarinNa&theme=radical)
+
 
