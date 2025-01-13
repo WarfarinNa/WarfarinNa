@@ -21,6 +21,6 @@
 
 ### 📊 绿不起来
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Warfarin&show_icons=true&theme=radical" alt="GitHub Stats" />
+    ![Warfarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarfarinNa&count_private=true)
 </p>
 
