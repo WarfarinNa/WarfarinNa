@@ -1,27 +1,26 @@
 <h1 align="center">Warfarin</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4BDB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4BDB&center=true&vCenter=true&width=435&lines=炫酷特效!" alt="Typing SVG" />
 </p>
 
 ---
 
-### ⚡ About Me
-- 💻 Passionate about coding and technology.  
-- 🌱 Currently exploring new ideas and tools.  
-- 📫 Reach me via GitHub issues.
+### ⚡ 关于我
+- 💻 弱智大学生 
+- 🌱 路遥知马力
+- 📫 哈哈
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ 获取中的技能
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,git,docker" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,git,ai,ps,pr" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 绿不起来
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Warfarin&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warfarin&theme=radical" alt="Streak Stats" />
 </p>
 
