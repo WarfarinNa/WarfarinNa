@@ -1,6 +1,6 @@
 <h1 align="center">Warfarin</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4BDB&center=true&vCenter=true&width=435&lines=炫酷特效!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4BDB&center=true&vCenter=true&width=435&lines=CHATGPT赐予我的炫酷特效!" alt="Typing SVG" />
 </p>
 
 ---
